@@ -1,0 +1,28 @@
+### Go
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build output
+*.test
+*.out
+
+# Dependency directories (remove the comment to include)
+vendor/
+
+# Go workspace file
+go.work
+
+### Editor/OS
+.DS_Store
+.vscode/
+.idea/
+*.iml
+
+# Node modules (if web assets are present)
+web/node_modules/
+
+# Logs
+*.log
